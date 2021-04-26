@@ -13,6 +13,6 @@ export const Home = () => {
             title={"Beranda"}
         >
         </PageHeader>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus aut recusandae velit! Consequatur corporis, eum fuga, harum incidunt laboriosam minus necessitatibus neque non nostrum pariatur tempore. Dignissimos impedit rem tempora!
+        Ini homepage
     </div>
 };
