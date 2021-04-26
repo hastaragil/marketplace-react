@@ -13,6 +13,6 @@ export const Home = () => {
             title={"Beranda"}
         >
         </PageHeader>
-        Ini homepage
+        Ini homepage baru
     </div>
 };
