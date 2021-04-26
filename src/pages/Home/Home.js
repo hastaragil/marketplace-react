@@ -10,7 +10,7 @@ export const Home = () => {
                 height: 40,
                 backgroundColor: "transparent",
             }}
-            title={"Beranda"}
+            title={"Beranda Baru"}
         >
         </PageHeader>
         Ini homepage baru
