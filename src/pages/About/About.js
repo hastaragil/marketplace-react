@@ -10,7 +10,7 @@ export const About = () => {
                 height: 40,
                 backgroundColor: "transparent",
             }}
-            title={"About 2"}
+            title={"About 2 3"}
         >
         </PageHeader>
         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus aut recusandae velit! Consequatur corporis, eum fuga, harum incidunt laboriosam minus necessitatibus neque non nostrum pariatur tempore. Dignissimos impedit rem tempora!

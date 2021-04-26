@@ -10,7 +10,7 @@ export const Home = () => {
                 height: 40,
                 backgroundColor: "transparent",
             }}
-            title={"Beranda Baru"}
+            title={"Beranda Baru di branch develop"}
         >
         </PageHeader>
         Ini homepage baruarst arst arst
